@@ -6,7 +6,7 @@ Even if you cannot provide financial support, you can help spread the software a
 
 **[DONATE LINK](https://buymeacoffee.com/turkaysoftware)**
 
-# Glow UI
+# Zafuse UI
 
 _Coming soon..._
 
