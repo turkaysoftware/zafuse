@@ -5,3 +5,46 @@
 Even if you cannot provide financial support, you can help spread the software and increase its visibility by sharing it._**
 
 **[DONATE LINK](https://buymeacoffee.com/turkaysoftware)**
+
+# Glow UI
+
+_Coming soon..._
+
+# Download Zafuse
+
+_Coming soon..._
+
+# How to use Zafuse?
+
+After downloading the Zafuse application, you will find two options: **Zafuse_x64.exe** and **Zafuse_arm64.exe**. Which file to choose depends on your computer’s processor architecture. Here’s a guide to help you decide which version is right for you:
+
+#### 1. Zafuse_x64.exe
+- **Zafuse_x64.exe** is designed for computers with an x64 (64-bit) processor architecture.
+- If you’re using a standard Windows PC or laptop, you likely need the x64 version.
+- Most devices with Intel or AMD processors use the x64 architecture.
+
+#### 2. Zafuse_arm64.exe
+- **Zafuse_arm64.exe** is specifically developed for devices with an ARM64 architecture.
+- It’s suitable for Windows devices that use **ARM processors** (such as some Surface models).
+- ARM architecture is commonly found in devices that prioritize lower power consumption and portability.
+
+#### Usage Instructions
+1. **After downloading the ZIP file, make sure to extract all files from the ZIP**. The Zafuse application is a portable software, so it doesn’t require installation, but all files must be in the same folder for it to run correctly.
+2. Once extracted, run the appropriate file for your device (**Zafuse_x64.exe** or **Zafuse_arm64.exe**) to start using the application immediately.
+
+With these instructions, you can download and use the correct version of Zafuse for your device. If you need further assistance, please feel free to reach out!
+
+# Advanced Features
+- **Multi-Architecture Support:** Fully compatible with x64-x86 and ARM processors.
+- **Multi-Language System:** Fully supports 15 or more languages. **Supported Languages:** _Arabic, Chinese, English, Dutch, French, German, Hindi, Italian, Japanase, Korean, Polish, Portuguese, Russian, Spanish, Turkish_
+- Advanced interface features such as Light / Dark / System Theme.
+- **Hiding Mode:** The feature to hide sensitive and important information with an asterisk (*) in the interface can be turned on or off as desired.
+- [TS Wizard](https://www.turkaysoftware.com/ts-wizard) provides an automatic update and monitoring system.
+
+# System Requirements
+
+|  | Minimum Requirements | Recommended Requirements |
+| -- | :--: | :--: |
+| OS: | Windows 10 20H2 x64 | Windows 11 25H2 x64|
+| RAM: | 25 MB Free RAM | 100 MB Free RAM |
+| .NET: | .NET Framework 4.8.1 | .NET Framework 4.8.1 |
