@@ -20,4 +20,5 @@ jobs:
         uses: microsoft/setup-msbuild@v2
 
       - name: Build solution
-        run: msbuild Glow.sln /p:Configuration=Release
+        run: msbuild Zafuse.sln /p:Configuration=Release
+
