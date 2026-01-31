@@ -6,9 +6,27 @@ Even if you cannot provide financial support, you can help spread the software a
 
 **[DONATE LINK](https://buymeacoffee.com/turkaysoftware)**
 
+**Zafuse**, developed by **Eray Türkay** using only **C#** and **.NET Framework**, is a high-performance **INI analysis tool** with **zero external library dependencies**. It is specifically engineered to detect inconsistencies in multi-language configuration files with **unrivaled speed and precision**.
+
+## 🛠 Key Features
+
+* **Advanced INI Analysis**: Performs deep-dive comparisons across languages based on keys, sections, and values; pinpointing missing or desynchronized data with absolute precision down to the specific line number.
+* **Enhanced Analysis Modes**: Leverages a specialized text-processing engine to audit placeholders, quotation marks, and punctuation errors that could compromise code logic or visual integrity.
+* **Dynamic Analysis Customization**: Provides on-the-fly customized auditing by allowing users to toggle analysis layers via **F6, F7, F8, F9, and F10** shortcuts during runtime.
+* **Ultra-High Speed Scanning**: Delivers unrivaled processing power with a high-performance scanning engine optimized in **pure .NET**, capable of analyzing massive datasets exceeding thousands of lines in less than half a second.
+* **Sophisticated Data Visualization**: Categorizes complex analysis results into error types, relevant keys, and detailed description columns, presenting them in a modern, user-friendly interface designed for high readability.
+* **Intuitive Workflow Adaptation**: Instantly resolves complexities in file structures through the intelligent detection of the **TSModules** core, completing "needle in a haystack" processes in seconds that would otherwise take hours of manual effort.
+* **Comprehensive Report Generation**: Enables the export of detected inconsistencies, duplicate keys, and content element discrepancies as professional data dumps for rapid developer-focused debugging reports.
+
+## ⚡ Performance & Efficiency
+
+* **Zero External Dependencies**: Built using 100% native .NET and custom-developed modules. No NuGet or third-party libraries.
+* **Low Resource Footprint**: Operates with an incredibly low memory usage (typically **17-20 MB RAM**), ensuring no impact on system performance.
+* **Portable & Lightweight**: Zafuse is designed as **portable software** and takes up only **1.5 MB of space**. It can even run from a USB flash drive.
+
 # Zafuse UI
 
-_Coming soon..._
+<img width="1010" height="633" alt="Zafuse UI" src="https://github.com/user-attachments/assets/ef73b80f-26b8-42aa-89d0-488ca7b1b2c4" />
 
 # Download Zafuse
 
