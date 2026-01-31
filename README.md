@@ -36,9 +36,8 @@ With these instructions, you can download and use the correct version of Zafuse 
 
 # Advanced Features
 - **Multi-Architecture Support:** Fully compatible with x64-x86 and ARM processors.
-- **Multi-Language System:** Fully supports 15 or more languages. **Supported Languages:** _Arabic, Chinese, English, Dutch, French, German, Hindi, Italian, Japanase, Korean, Polish, Portuguese, Russian, Spanish, Turkish_
+- **Multi-Language System:** Fully supports 15 or more languages. **Supported Languages:** _Arabic, Chinese, English, Dutch, French, German, Hindi, Italian, Japanase, Korean, Polish, Portuguese, Russian, Spanish, Turkish_ | **For translation support: [Translation Guide for Zafuse](https://github.com/turkaysoftware/zafuse/discussions/1)**
 - Advanced interface features such as Light / Dark / System Theme.
-- **Hiding Mode:** The feature to hide sensitive and important information with an asterisk (*) in the interface can be turned on or off as desired.
 - [TS Wizard](https://www.turkaysoftware.com/ts-wizard) provides an automatic update and monitoring system.
 
 # System Requirements
