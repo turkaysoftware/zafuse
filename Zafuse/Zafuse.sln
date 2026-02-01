@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zafuse", "Zafuse.csproj", "{BC91300C-3D26-4C21-9E5A-66503137035F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC91300C-3D26-4C21-9E5A-66503137035F}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{BC91300C-3D26-4C21-9E5A-66503137035F}.Debug|ARM64.Build.0 = Debug|ARM64
+		{BC91300C-3D26-4C21-9E5A-66503137035F}.Debug|x64.ActiveCfg = Debug|x64
+		{BC91300C-3D26-4C21-9E5A-66503137035F}.Debug|x64.Build.0 = Debug|x64
+		{BC91300C-3D26-4C21-9E5A-66503137035F}.Release|ARM64.ActiveCfg = Release|ARM64
+		{BC91300C-3D26-4C21-9E5A-66503137035F}.Release|ARM64.Build.0 = Release|ARM64
+		{BC91300C-3D26-4C21-9E5A-66503137035F}.Release|x64.ActiveCfg = Release|x64
+		{BC91300C-3D26-4C21-9E5A-66503137035F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D888E49-6C6A-4B22-A8FF-8E6F890A4D0B}
+	EndGlobalSection
+EndGlobal
