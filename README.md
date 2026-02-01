@@ -30,7 +30,7 @@ Even if you cannot provide financial support, you can help spread the software a
 
 # Download Zafuse
 
-_Coming soon..._
+Download: [Zafuse Latest Version](https://github.com/turkaysoftware/zafuse/releases/latest)
 
 # How to use Zafuse?
 
