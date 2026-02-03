@@ -1,67 +1,83 @@
-# Zafuse - Multi INI File Content Analysis Software
+# ⚡ Zafuse | Advanced Multi-INI Content Analysis Software
 
-> [!TIP]
-**_This program is completely free to use. I do not earn any income from its use. However, you can support me by donating to the address below so that I can continue my work 💚
-Even if you cannot provide financial support, you can help spread the software and increase its visibility by sharing it._**
+![GitHub Repo stars](https://img.shields.io/github/stars/turkaysoftware/zafuse?style=for-the-badge&color=gold)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/turkaysoftware/zafuse?style=for-the-badge&color=blue)
+![GitHub license](https://img.shields.io/github/license/turkaysoftware/zafuse?style=for-the-badge)
+![Platform](https://img.shields.io/badge/platform-Windows-0078D4?style=for-the-badge&logo=windows)
 
-**[DONATE LINK](https://buymeacoffee.com/turkaysoftware)**
+**Zafuse** is a high-performance **INI analysis tool** developed by **Eray Türkay**. Engineered for speed and precision, it is specifically designed to detect inconsistencies in multi-language configuration files. Whether you are managing complex localization datasets or auditing large-scale software configs, Zafuse pinpointing missing or desynchronized data with absolute precision.
 
-**Zafuse**, developed by **Eray Türkay** using only **C#** and **.NET Framework**, is a high-performance **INI analysis tool** with **zero external library dependencies**. It is specifically engineered to detect inconsistencies in multi-language configuration files with **unrivaled speed and precision**.
+---
 
-## 🛠 Key Features
+### ☕ Support the Project
+Zafuse is completely free to use. If you find it valuable for your development workflow, consider supporting the project!
 
-* **Advanced INI Analysis**: Performs deep-dive comparisons across languages based on keys, sections, and values; pinpointing missing or desynchronized data with absolute precision down to the specific line number.
-* **Enhanced Analysis Modes**: Leverages a specialized text-processing engine to audit placeholders, quotation marks, and punctuation errors that could compromise code logic or visual integrity.
-* **Dynamic Analysis Customization**: Provides on-the-fly customized auditing by allowing users to toggle analysis layers via **F6, F7, F8, F9, and F10** shortcuts during runtime.
-* **Ultra-High Speed Scanning**: Delivers unrivaled processing power with a high-performance scanning engine optimized in **pure .NET**, capable of analyzing massive datasets exceeding thousands of lines in less than half a second.
-* **Sophisticated Data Visualization**: Categorizes complex analysis results into error types, relevant keys, and detailed description columns, presenting them in a modern, user-friendly interface designed for high readability.
-* **Intuitive Workflow Adaptation**: Instantly resolves complexities in file structures through the intelligent detection of the **TSModules** core, completing "needle in a haystack" processes in seconds that would otherwise take hours of manual effort.
-* **Comprehensive Report Generation**: Enables the export of detected inconsistencies, duplicate keys, and content element discrepancies as professional data dumps for rapid developer-focused debugging reports.
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/turkaysoftware)
 
-## ⚡ Performance & Efficiency
+[Official Website](https://www.turkaysoftware.com/zafuse) | [Report a Bug](https://github.com/turkaysoftware/zafuse/issues)
 
-* **Zero External Dependencies**: Built using 100% native .NET and custom-developed modules. No NuGet or third-party libraries.
-* **Low Resource Footprint**: Operates with an incredibly low memory usage (typically **17-20 MB RAM**), ensuring no impact on system performance.
-* **Portable & Lightweight**: Zafuse is designed as **portable software** and takes up only **1.5 MB of space**. It can even run from a USB flash drive.
+---
 
-# Zafuse UI
+## ✨ Key Features
 
-<img width="1010" height="633" alt="Zafuse UI" src="https://github.com/user-attachments/assets/ef73b80f-26b8-42aa-89d0-488ca7b1b2c4" />
+* 🛡️ **Privacy First:** No data ever leaves your computer. All analysis is performed locally on your device.
+* 🚀 **Pure Performance:** Developed in **pure .NET** with **zero external library dependencies**, ensuring unrivaled scanning speed.
+* 🌓 **Modern UI:** Sophisticated interface with Light, Dark, and System theme support for high readability.
+* 🌍 **Multilingual:** Fully supports 15+ languages including Arabic, Chinese, English, German, and Turkish.
+* 📦 **Portable & Lightweight:** Takes up only ~1.5 MB of space and runs with an incredibly low memory footprint (17-20 MB RAM).
+* 🆓 **Truly Free:** High-end developer features provided at no cost, with no hidden paywalls.
 
-# Download Zafuse
+---
 
-Download: [Zafuse Latest Version](https://github.com/turkaysoftware/zafuse/releases/latest)
+## 🛠️ Advanced Capabilities
 
-# How to use Zafuse?
+Zafuse offers a specialized toolkit to resolve complex file structures in seconds:
 
-After downloading the Zafuse application, you will find two options: **Zafuse_x64.exe** and **Zafuse_arm64.exe**. Which file to choose depends on your computer’s processor architecture. Here’s a guide to help you decide which version is right for you:
+* **Deep INI Comparison:** Audits keys, sections, and values across languages to find desynchronized data down to the specific line number.
+* **Specialized Audit Layers:** Leverages a custom engine to detect punctuation errors, quotation marks, and placeholder inconsistencies.
+* **Dynamic Customization:** Toggle analysis layers on-the-fly via **F6, F7, F8, F9, and F10** shortcuts during runtime.
+* **Ultra-Fast Scanning:** Capable of analyzing massive datasets (thousands of lines) in less than half a second.
+* **TSModules Integration:** Intelligent detection core that resolves "needle in a haystack" processes instantly.
+* **Professional Reporting:** Export detected inconsistencies and duplicate keys as rapid developer-focused debugging reports.
 
-#### 1. Zafuse_x64.exe
-- **Zafuse_x64.exe** is designed for computers with an x64 (64-bit) processor architecture.
-- If you’re using a standard Windows PC or laptop, you likely need the x64 version.
-- Most devices with Intel or AMD processors use the x64 architecture.
+---
 
-#### 2. Zafuse_arm64.exe
-- **Zafuse_arm64.exe** is specifically developed for devices with an ARM64 architecture.
-- It’s suitable for Windows devices that use **ARM processors** (such as some Surface models).
-- ARM architecture is commonly found in devices that prioritize lower power consumption and portability.
+## 📸 Interface Preview
 
-#### Usage Instructions
-1. **After downloading the ZIP file, make sure to extract all files from the ZIP**. The Zafuse application is a portable software, so it doesn’t require installation, but all files must be in the same folder for it to run correctly.
-2. Once extracted, run the appropriate file for your device (**Zafuse_x64.exe** or **Zafuse_arm64.exe**) to start using the application immediately.
+![Zafuse UI](https://github.com/user-attachments/assets/ef73b80f-26b8-42aa-89d0-488ca7b1b2c4)
+> *Audit complex configuration files with Zafuse's modern and high-performance dashboard.*
 
-With these instructions, you can download and use the correct version of Zafuse for your device. If you need further assistance, please feel free to reach out!
+---
 
-# Advanced Features
-- **Multi-Architecture Support:** Fully compatible with x64-x86 and ARM processors.
-- **Multi-Language System:** Fully supports 15 or more languages. **Supported Languages:** _Arabic, Chinese, English, Dutch, French, German, Hindi, Italian, Japanase, Korean, Polish, Portuguese, Russian, Spanish, Turkish_ | **For translation support: [Translation Guide for Zafuse](https://github.com/turkaysoftware/zafuse/discussions/1)**
-- Advanced interface features such as Light / Dark / System Theme.
-- [TS Wizard](https://www.turkaysoftware.com/ts-wizard) provides an automatic update and monitoring system.
+## 💻 System Requirements
 
-# System Requirements
+| Feature | Minimum Requirements | Recommended Requirements |
+| :--- | :--- | :--- |
+| **OS** | Windows 10 20H2 x64 | Windows 11 25H2 x64 |
+| **RAM** | 25 MB Free RAM | 100 MB Free RAM |
+| **.NET** | .NET Framework 4.8.1 | .NET Framework 4.8.1 |
 
-|  | Minimum Requirements | Recommended Requirements |
-| -- | :--: | :--: |
-| OS: | Windows 10 20H2 x64 | Windows 11 25H2 x64|
-| RAM: | 25 MB Free RAM | 100 MB Free RAM |
-| .NET: | .NET Framework 4.8.1 | .NET Framework 4.8.1 |
+---
+
+## 🚀 Getting Started
+
+1.  Navigate to the **[Releases](https://github.com/turkaysoftware/zafuse/releases/latest)** page.
+2.  Download the latest ZIP file.
+3.  **Extract all files from the ZIP** (The application requires all included files to be in the same directory to run correctly).
+4.  Launch the executable corresponding to your architecture:
+    * `Zafuse_x64.exe`: For standard 64-bit Intel/AMD systems.
+    * `Zafuse_arm64.exe`: For ARM-based Windows devices like Surface Pro.
+
+---
+
+## 🛡️ Security & Integrity
+
+* **Zero Dependencies:** Purely built to eliminate risks from third-party library vulnerabilities.
+* **Offline Processing:** No internet connection required for analysis; your data remains private.
+* **TS Wizard Integration:** Fully compatible with [TS Wizard](https://www.turkaysoftware.com/ts-wizard) for automatic updates and monitoring.
+
+---
+
+## 📄 License
+
+This software is provided for free as part of the Türkay Software developer utility suite.
