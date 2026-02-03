@@ -42,6 +42,13 @@ Zafuse offers a specialized toolkit to resolve complex file structures in second
 
 ---
 
+## 🛠️ Automatic Updates and Translation Support
+
+* **TS Wizard Integration:** Fully compatible with [TS Wizard](https://www.turkaysoftware.com/ts-wizard) for automatic updates and system monitoring.
+* **Translation Support:** Community-driven localization via the official [Translation Guide](https://github.com/turkaysoftware/zafuse/discussions/1).
+
+---
+
 ## 📸 Interface Preview
 
 ![Zafuse UI](https://github.com/user-attachments/assets/ef73b80f-26b8-42aa-89d0-488ca7b1b2c4)
@@ -74,7 +81,7 @@ Zafuse offers a specialized toolkit to resolve complex file structures in second
 
 * **Zero Dependencies:** Purely built to eliminate risks from third-party library vulnerabilities.
 * **Offline Processing:** No internet connection required for analysis; your data remains private.
-* **TS Wizard Integration:** Fully compatible with [TS Wizard](https://www.turkaysoftware.com/ts-wizard) for automatic updates and monitoring.
+* **Open Source:** The entire source code is available for audit and community contribution.
 
 ---
 
